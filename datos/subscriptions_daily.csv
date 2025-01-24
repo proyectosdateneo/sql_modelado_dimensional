@@ -1,0 +1,4 @@
+﻿subscription_id,subscription_name,max_contents_per_month,created_at,updated_at
+1,Gratuita,3,2020-01-01 00:00:00,2025-01-02 00:00:00
+2,Premium,50,2020-01-01 00:00:00,2025-01-02 00:00:00
+3,Empresarial,500,2020-01-01 00:00:00,2025-01-02 00:00:00
